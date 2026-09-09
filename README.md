@@ -1,9 +1,11 @@
 
+<a id="en"></a>
+
 # IRANet: Illumination-Adaptive RGB-only Glass Detection
 
 <p align="center">
-    <a href="README.md">🇬🇧 English</a> |
-    <a href="README.zh-CN.md">🇨🇳 中文</a>
+    <a href="README.md" style="display:inline-block;padding:7px 18px;margin:4px;border-radius:20px;background:#0969da;color:#ffffff;text-decoration:none;font-weight:600;">English</a>
+    <a href="README.zh-CN.md" style="display:inline-block;padding:7px 18px;margin:4px;border-radius:20px;background:#0969da;color:#ffffff;text-decoration:none;font-weight:600;">中文</a>
 </p>
 
 Glass is transparent and reflection-prone, which makes it one of the harder
