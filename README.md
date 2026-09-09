@@ -1,7 +1,10 @@
 
 # IRANet: Illumination-Adaptive RGB-only Glass Detection
 
-<p align="center">[English](./README.md) | [中文](./README.zh-CN.md)</p>
+<p align="center">
+    <a href="README.md">🇬🇧 English</a> |
+    <a href="README.zh-CN.md">🇨🇳 中文</a>
+</p>
 
 Glass is transparent and reflection-prone, which makes it one of the harder
 things to segment from a single RGB image. Most existing glass detectors lean
@@ -190,4 +193,3 @@ and `--use_crf` to enable CRF refinement where available.
 If you use this code in your own work, please cite the paper once it is
 publicly available. The repository is released under the BSD-3-Clause license.
 
-# IRANet

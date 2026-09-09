@@ -1,6 +1,9 @@
 # IRANet: 光照自适应的纯RGB玻璃检测（Illumination-Adaptive RGB-only Glass Detection）
 
-<p align="center">[English](./README.md) | [中文](./README.zh-CN.md)</p>
+<p align="center">
+    <a href="README.md">🇬🇧 English</a> |
+    <a href="README.zh-CN.md">🇨🇳 中文</a>
+</p>
 
 玻璃是透明且容易反光的，这让它成为单张 RGB 图像分割中比较棘手的一类目标。现有的玻璃检测方法大多依赖深度传感器，但这一方案放到无人机平台上并不合适：深度相机的体积、重量和功耗都难以满足小型无人机的 SWaP（尺寸、重量与功耗）约束。本仓库收录了 IRANet 的训练、评测与推理代码。IRANet 是一个完全基于 **RGB-only**（仅 RGB）输入的玻璃分割网络，主要面向在 5-30 米距离、光照剧烈变化条件下拍摄的无人机影像。
 
