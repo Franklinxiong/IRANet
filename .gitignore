@@ -1,0 +1,21 @@
+# Data
+data/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Model weights and checkpoints
+*.pth
+checkpoints/
+ablation/checkpoints/
+
+# Training logs and outputs
+improved/models/*.json
+improved/models/*.png
+improved/result/
+improved/results/
+ablation_results/
