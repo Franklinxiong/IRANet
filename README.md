@@ -190,6 +190,10 @@ python improved/inference.py --input PATH/TO/IMAGES --output improved/result
 The scripts save JET heat-map overlays as JPG. Add `--no_cuda` to force CPU
 and `--use_crf` to enable CRF refinement where available.
 
+## Acknowledgements
+
+We thank the **Sports Artificial Intelligence Laboratory (SAIL Lab)**, The University of Hong Kong, for their support. Special thanks to our supervisor **Dr. Wilton Fok** and **Ms. Carol Chen** for their guidance and encouragement throughout this project.
+
 ## Citation and license
 
 If you use this code in your own work, please cite the paper once it is

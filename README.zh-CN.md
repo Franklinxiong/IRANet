@@ -156,6 +156,10 @@ python improved/inference.py --input PATH/TO/IMAGES --output improved/result
 
 脚本默认保存 JET 热力图叠加后的 JPG。加 `--no_cuda` 强制使用 CPU，加 `--use_crf` 在可用时启用 CRF 细化。
 
+## 致谢
+
+感谢 **香港大学运动人工智能实验室（SAIL Lab）** 对本项目的大力支持。特别感谢导师 **霍伟栋博士（Dr. Wilton Fok）** 与 **陈颖贤女士（Ms. Carol Chen）** 在整个项目过程中的悉心指导与鼓励。
+
 ## 引用与许可（Citation and license）
 
 如果这份代码对你的工作有帮助，请在论文公开后引用它。本仓库以 BSD-3-Clause 许可发布。
